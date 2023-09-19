@@ -1,0 +1,42 @@
+D:\Amr\Localization and globalization\Localization and globalization\bin\Debug\net7.0\appsettings.Development.json
+D:\Amr\Localization and globalization\Localization and globalization\bin\Debug\net7.0\appsettings.json
+D:\Amr\Localization and globalization\Localization and globalization\bin\Debug\net7.0\notesAboutThisCourse.json
+D:\Amr\Localization and globalization\Localization and globalization\bin\Debug\net7.0\Localization and globalization.exe
+D:\Amr\Localization and globalization\Localization and globalization\bin\Debug\net7.0\Localization and globalization.deps.json
+D:\Amr\Localization and globalization\Localization and globalization\bin\Debug\net7.0\Localization and globalization.runtimeconfig.json
+D:\Amr\Localization and globalization\Localization and globalization\bin\Debug\net7.0\Localization and globalization.dll
+D:\Amr\Localization and globalization\Localization and globalization\bin\Debug\net7.0\Localization and globalization.pdb
+D:\Amr\Localization and globalization\Localization and globalization\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Amr\Localization and globalization\Localization and globalization\bin\Debug\net7.0\Microsoft.Extensions.Localization.dll
+D:\Amr\Localization and globalization\Localization and globalization\bin\Debug\net7.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Amr\Localization and globalization\Localization and globalization\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Amr\Localization and globalization\Localization and globalization\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Amr\Localization and globalization\Localization and globalization\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Amr\Localization and globalization\Localization and globalization\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Amr\Localization and globalization\Localization and globalization\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Amr\Localization and globalization\Localization and globalization\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Amr\Localization and globalization\Localization and globalization\obj\Debug\net7.0\Localization and globalization.csproj.AssemblyReference.cache
+D:\Amr\Localization and globalization\Localization and globalization\obj\Debug\net7.0\Localization and globalization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amr\Localization and globalization\Localization and globalization\obj\Debug\net7.0\Localization and globalization.AssemblyInfoInputs.cache
+D:\Amr\Localization and globalization\Localization and globalization\obj\Debug\net7.0\Localization and globalization.AssemblyInfo.cs
+D:\Amr\Localization and globalization\Localization and globalization\obj\Debug\net7.0\Localization and globalization.csproj.CoreCompileInputs.cache
+D:\Amr\Localization and globalization\Localization and globalization\obj\Debug\net7.0\Localization and globalization.MvcApplicationPartsAssemblyInfo.cs
+D:\Amr\Localization and globalization\Localization and globalization\obj\Debug\net7.0\Localization and globalization.MvcApplicationPartsAssemblyInfo.cache
+D:\Amr\Localization and globalization\Localization and globalization\obj\Debug\net7.0\staticwebassets\msbuild.Localization and globalization.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Amr\Localization and globalization\Localization and globalization\obj\Debug\net7.0\staticwebassets\msbuild.build.Localization and globalization.props
+D:\Amr\Localization and globalization\Localization and globalization\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Localization and globalization.props
+D:\Amr\Localization and globalization\Localization and globalization\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Localization and globalization.props
+D:\Amr\Localization and globalization\Localization and globalization\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Amr\Localization and globalization\Localization and globalization\obj\Debug\net7.0\staticwebassets.build.json
+D:\Amr\Localization and globalization\Localization and globalization\obj\Debug\net7.0\staticwebassets.development.json
+D:\Amr\Localization and globalization\Localization and globalization\obj\Debug\net7.0\scopedcss\bundle\Localization and globalization.styles.css
+D:\Amr\Localization and globalization\Localization and globalization\obj\Debug\net7.0\Localization and globalization.csproj.CopyComplete
+D:\Amr\Localization and globalization\Localization and globalization\obj\Debug\net7.0\Localization and globalization.dll
+D:\Amr\Localization and globalization\Localization and globalization\obj\Debug\net7.0\refint\Localization and globalization.dll
+D:\Amr\Localization and globalization\Localization and globalization\obj\Debug\net7.0\Localization and globalization.pdb
+D:\Amr\Localization and globalization\Localization and globalization\obj\Debug\net7.0\Localization and globalization.genruntimeconfig.cache
+D:\Amr\Localization and globalization\Localization and globalization\obj\Debug\net7.0\ref\Localization and globalization.dll
+D:\Amr\Localization and globalization\Localization and globalization\bin\Debug\net7.0\en\Localization and globalization.resources.dll
+D:\Amr\Localization and globalization\Localization and globalization\obj\Debug\net7.0\Localization and globalization.csproj.GenerateResource.cache
+D:\Amr\Localization and globalization\Localization and globalization\obj\Debug\net7.0\en\Localization and globalization.resources.dll
+D:\Amr\Localization and globalization\Localization and globalization\obj\Debug\net7.0\Localization_and_globalization.Resources.Controllers.LanguagesController.en.resources

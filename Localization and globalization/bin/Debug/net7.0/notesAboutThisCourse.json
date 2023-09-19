@@ -1,0 +1,24 @@
+{
+  // globalization : the application supports more then one languages
+  // localization :  when the end USer choose specific language how the application adapt with this language
+
+  //steps: 
+  // 1 - install Microsoft.Extensions.Localization
+  // 2-  add 2 services in program.cs to configure supported loanguages and use the middleware app.UseRequestLocalization(app.Services.GetRequiredService<IOptions<RequestLocalizationOptions>>().Value);
+
+  // 3- inject IStringLocalizer in languagesController , i use it to read the values from the files in the resources folder
+  // when i run the application without making the Resources folder the result
+  {
+    "name": "Welcome",
+    "value": "Welcome",
+    "resourceNotFound": true,
+    "searchedLocation": "Localizationandglobalization.Resources.Controllers.LanguagesController"
+  }
+  // searchedLocation is the place where the app will search for the key like ["welcome"] (i make it in the language controllers)
+
+  // 4- so i will create the resources folder and  inside it i will create Controllers folder
+  // and inside it i will create files of type Resource , one file for one language , i will write the key and the value is the same key but in this language 
+  // example in fileResource-ar  the key is "Welcome " and the value is أهلا
+
+  //5- when i send the request i will in the header >>> Accept-Language  : ar or en
+}
